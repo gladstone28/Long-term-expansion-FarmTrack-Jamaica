@@ -7,12 +7,19 @@ The name also gives you room to grow into specialized modules while keeping a co
 Examples:
 
 . FarmTrack Jamaica – Farmer Portal
+
 . FarmTrack Jamaica – Extension Portal
+
 . FarmTrack Jamaica – Bamboo Intelligence
+
 . FarmTrack Jamaica – Weather Intelligence
+
 . FarmTrack Jamaica – Carbon Registry
+
 . FarmTrack Jamaica – Market Intelligence
+
 . FarmTrack Jamaica – Traceability
+
 . FarmTrack Jamaica – Executive Dashboard
 
 This creates a unified ecosystem under a single recognizable brand.
