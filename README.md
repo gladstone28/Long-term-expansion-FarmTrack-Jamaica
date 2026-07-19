@@ -24,13 +24,13 @@ Examples:
 
 This creates a unified ecosystem under a single recognizable brand.
 
-One suggestion
+**One suggestion**
 
 If you decide to adopt FarmTrack Jamaica™ publicly, I recommend taking a few practical steps before the Board presentation:
 
-Check trademark availability in Jamaica.
-Secure the most appropriate domain name (for example, farmtrackjamaica.org or a similar variation if available).
-Design a professional logo and visual identity.
-Prepare a one-page brand guide so future presentations, documents, and the application itself all use consistent branding.
+- Check trademark availability in Jamaica.
+- Secure the most appropriate domain name (for example, farmtrackjamaica.org or a similar variation if available).
+- Design a professional logo and visual identity.
+- Prepare a one-page brand guide so future presentations, documents, and the application itself all use consistent branding.
 
 With those elements in place, FarmTrack Jamaica™ would present itself not just as software, but as a credible national platform that the BIAJ could confidently champion.
